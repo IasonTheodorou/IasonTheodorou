@@ -1,10 +1,10 @@
 ### Hi there thank you for stopping by 👋
-![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=IaonTheodorou&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)
+![Iason's GitHub stats](https://github-readme-stats.vercel.app/api?username=IasonTheodorou&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IasonTheodorou&layout=compact&hide=Jupyter%20Notebook,html,makefile,css,cmake)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iasonth95&hide=Jupyter%20Notebook,html,makefile,css,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
-**iasonth95/iasonth95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IasonTheodorou/IasonTheodorou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
